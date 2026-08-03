@@ -3,21 +3,21 @@
 </p>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Trixzyy/MeowEmojis/refs/heads/main/gif/MeowEmoji_%20(21).gif" width="42">
+  <img src="https://cdn3.emoji.gg/emojis/826928-affectionatetearyeyedgoma.gif" width="42">
   Hi, I'm Blanket!
 </h1>
 
 <p align="center">
- 🇪🇬 Egypt • Software & Game Developer
+ 🇪🇬 Egypt - Software & Game Developer
 </p>
 
 <p align="center">
-I enjoy creating stuff, Minecraft mods, and learning new things.
+I enjoy creating stuff, Minecraft mods, and learning new things!
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Experienced-orange?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-Experienced-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-Basic-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-Learning-68217A?style=flat-square&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/C++-Learning-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 </p>
